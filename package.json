@@ -1,0 +1,15 @@
+{
+  "name": "matching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@andes/match": "^1.1.12",
+    "wma-matching-algorithm": "^1.0.2"
+  }
+}
